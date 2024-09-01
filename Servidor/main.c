@@ -86,7 +86,7 @@ int main() {
         sscanf(servidor.buffer, "%s %d", tipoSolicitud, &longitud);
 
         if (strcmp(tipoSolicitud, "SALIR") == 0) {
-            printf("Recibida señal de salida del cliente.\n");
+            printf("Recibida senal de salida del cliente.\n");
             break;
         }
 

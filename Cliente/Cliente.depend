@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1725062579 source:c:\users\agustina\desktop\distribuidos\cliente\main.c
+1725157622 source:c:\users\agustina\desktop\distribuidos\cliente\main.c
 	<stdio.h>
 	<winsock2.h>
 
